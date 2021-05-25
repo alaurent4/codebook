@@ -4,7 +4,7 @@ Vous trouverez ici des exemples de jeu que j'ai développé principalement avec 
 
 Le premier Mad Birds est une application du tutorial de Jason Weimann avec une construction supplémentaire de niveau et l'apparition d'un boss de fin.
 
-Mon deuxième jeu Sliding Rows est plus poussée. J'ai repris un ancien projet d'études écrit initialement en Python, que j'ai modifié ai converti pour en faire un jeu sur Unity. Il est sans cesse en développement.
+Mon deuxième jeu Sliding Rows est plus poussé. J'ai repris un ancien projet d'études écrit initialement en Python, que j'ai modifié et converti pour en faire un jeu sur Unity. Il est sans cesse en développement.
 
 Pour récupérer facilement les jeux du dossier Games, vous pouvez d'abord cloner le repository. Par exemple avec git. 
 
