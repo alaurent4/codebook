@@ -20,7 +20,7 @@ Les versions MacOs et Windows sont disponibles.
 
 ![SR](pngs/slidingrows.png)
 
-L'équivalent du Puissance 4. Ce gentil poulet s'est perdu et s'ennuie à mourir sur son île. Vous devriez faire une partie ou deux avec lui. Vous vous affrontez en plaçant chacun votre tour un pion dans une grille. Le premier à parvenir à faire un aligmement vertical, horizontal ou diagonal de 4 pions remportent la partie. Les joueurs peuvent aussi basculer la grille vers la gauche ou la droite (slide) pour renverser les pions et ainsi changer le cours de la partie. Cliquez sur la colonne pour poser votre pion. Basculez en utilisant les boutons sur les côtés.
+L'équivalent du Puissance 4. Ce gentil poulet s'est perdu et s'ennuie à mourir sur son île. Vous devriez faire une partie ou deux avec lui. Vous vous affrontez en plaçant chacun votre tour un pion dans une grille. Le premier à parvenir à faire un aligmement vertical, horizontal ou diagonal de 4 pions remporte la partie. Les joueurs peuvent aussi basculer la grille vers la gauche ou la droite (slide) pour renverser les pions et ainsi changer le cours de la partie. Cliquez sur la colonne pour poser votre pion. Basculez en utilisant les boutons sur les côtés. Basculer la grille fait sauter votre tour.
 
 
 # Mad Birds
