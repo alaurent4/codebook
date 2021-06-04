@@ -2,7 +2,7 @@
 
 Vous trouverez ici des exemples de jeu que j'ai développé principalement avec Unity.
 
-[Jouer en ligne ICI.](https://acdc.creatis.insa-lyon.fr/)
+[Jouer en ligne ICI.](https://alaurent4.gitlab.io/codebook)
 
 Le premier Mad Birds est une application du tutorial de Jason Weimann avec une construction supplémentaire de niveau et l'apparition d'un boss de fin.
 
