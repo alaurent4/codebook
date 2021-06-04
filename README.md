@@ -2,21 +2,11 @@
 
 Vous trouverez ici des exemples de jeu que j'ai développé principalement avec Unity.
 
-[Jouer en ligne ICI.](https://alaurent4.gitlab.io/codebook)
+==> [Jouer en ligne ICI.](https://alaurent4.gitlab.io/codebook) <==
 
 Le premier Mad Birds est une application du tutorial de Jason Weimann avec une construction supplémentaire de niveau et l'apparition d'un boss de fin.
 
 Mon deuxième jeu Sliding Rows est plus poussé. J'ai repris un ancien projet d'études écrit initialement en Python, que j'ai modifié et converti pour en faire un jeu sur Unity. Il est sans cesse en développement.
-
-Pour récupérer facilement les jeux du dossier Games, vous pouvez d'abord cloner le repository. Par exemple avec git. 
-
-```
-git clone https://github.com/alaurent4/codebook.git
-cd codebook/
-```
-
-Ou alors Télécharger un zip directement depuis GitHub.
-Les versions MacOs et Windows sont disponibles.
 
 # Sliding Rows
 
